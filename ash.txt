@@ -1,3 +1,0 @@
-Username: ash
-Level: Silver
-Balance: 100.0
