@@ -1,0 +1,4 @@
+Username: timmy
+Password: turner
+Level: Silver
+Balance: 100.0

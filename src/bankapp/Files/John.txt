@@ -1,0 +1,4 @@
+Username: John
+Password: john
+Level: Silver
+Balance: 100.0

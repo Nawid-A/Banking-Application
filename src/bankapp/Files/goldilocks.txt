@@ -1,0 +1,4 @@
+Username: goldilocks
+Password: rice
+Level: Platinum
+Balance: 29900.0

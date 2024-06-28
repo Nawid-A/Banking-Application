@@ -1,0 +1,4 @@
+Username: gary
+Password: oak
+Level: Platinum
+Balance: 100105.0
